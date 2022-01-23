@@ -4,7 +4,7 @@ This project was created in November 2021 as part of the requirements to complet
 ### Description
 This project makes use of Python to explore data related to bike share systems for three major cities in the United States – Chicago, New York City and Washington. A code was written to import the data and answer interesting questions about it by computing descriptive statistics. A script was written to take in raw input to create an interactive experience in the terminal to present these statistics.
 
-![Statistics_computed](statistics_computed.png)
+![](https://raw.githubusercontent.com/isoken45/pdsnd_github/documentation/statistics%20_computed.png)
 
 ### Files used
 - chicago.csv
