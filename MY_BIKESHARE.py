@@ -3,20 +3,6 @@ import pandas as pd
 import numpy as np
 import calendar
 
-# Below are some of the links where I was able to find resources which provided
-# solutions to some of the problems I encountered.
-# https://stackoverflow.com/questions/30222533/create-a-day-of-week-column-in-a-pandas-dataframe-using-python
-# https://www.geeksforgeeks.org/python-calendar-module/
-# https://stackoverflow.com/questions/775049/how-do-i-convert-seconds-to-hours-minutes-and-seconds
-# https://knowledge.udacity.com/?nanodegree=nd104&page=1&project=328&rubric=1379&sort=SCORE
-# https://www.shanelynn.ie/pandas-iloc-loc-select-rows-and-columns-dataframe/
-
-
-# The project has been updated after the first review to include an additional
-# function to display raw data when it is required by the user. I noticed that
-# for the inputs, I omitted 'all' in the list of days of the week. I have now
-# included that as well.
-
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
@@ -113,7 +99,7 @@ def time_stats(df):
 
     # display the most common start hour
     common_hour = df['hour'].mode()[0]
-    print('The most common hour of travel is {}'.format(common_hour))
+    print('The most common travel hour is {}'.format(common_hour))
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
