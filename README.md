@@ -12,6 +12,8 @@ This project makes use of Python to explore data related to bike share systems f
 - washington.csv
 - bikeshare.py
 
+### Software used
+The software used includes Python 3, Numpy and Pandas which was installed using Anaconda
 
 ### Credits
 Resources that provided solutions to some of the problems I encountered.
