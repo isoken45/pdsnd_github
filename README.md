@@ -14,4 +14,9 @@ This project makes use of Python to explore data related to bike share systems f
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Resources which provided solutions to some of the problems I encountered.
+- [Stackoverflow Create a day of week column in Pandas](https://stackoverflow.com/questions/30222533/create-a-day-of-week-column-in-a-pandas-dataframe-using-python)
+- [Python calendar module](https://www.geeksforgeeks.org/python-calendar-module/)
+- [Stackoverflow How do I convert seconds to hours](https://stackoverflow.com/questions/775049/how-do-i-convert-seconds-to-hours-minutes-and-seconds)
+- [Knowledge Udacity](https://knowledge.udacity.com/?nanodegree=nd104&page=1&project=328&rubric=1379&sort=SCORE)
+- [Pandas iloc select rows and columns](https://www.shanelynn.ie/pandas-iloc-loc-select-rows-and-columns-dataframe/)
